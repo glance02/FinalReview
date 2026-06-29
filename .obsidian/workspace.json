@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2f8dd51dd377156b",
+        "id": "ab1da66c8c1fbc59",
         "type": "split",
         "dimension": 61.38968481375359,
         "children": [
           {
             "id": "e16ee911e2c9e1e7",
             "type": "tabs",
+            "dimension": 60.11904761904761,
             "children": [
               {
                 "id": "193577b1548ff523",
@@ -20,9 +21,9 @@
                   "state": {
                     "file": "第3章 空间域图像增强.pdf",
                     "page": 1,
-                    "left": -24,
+                    "left": -20,
                     "top": 544,
-                    "zoom": 0.62890625
+                    "zoom": 0.8351562499999999
                   },
                   "icon": "lucide-file-text",
                   "title": "第3章 空间域图像增强"
@@ -31,52 +32,18 @@
             ]
           },
           {
-            "id": "da6fd7d9737c8580",
+            "id": "15fee24ce45fa04a",
             "type": "tabs",
+            "dimension": 39.88095238095239,
             "children": [
               {
-                "id": "ea84855b0fa96155",
+                "id": "e788bc3c3d91b058",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "C:\\Users\\86199\\Desktop\\图像处理与计算机视觉",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "environment": [],
-                        "executable": "pwsh",
-                        "followTheme": true,
-                        "name": "pwsh",
-                        "platforms": {
-                          "darwin": true,
-                          "linux": true,
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "profileSourceId": "f976e59b-bb1c-4222-b44a-52cbef9804be",
-                      "serial": null,
-                      "userTitle": ""
-                    }
-                  },
-                  "pinned": true,
+                  "type": "terminal-view",
+                  "state": {},
                   "icon": "terminal",
-                  "title": "终端：C:\\Windows\\System32\\conhost.exe"
+                  "title": "Terminal"
                 }
               }
             ]
@@ -279,14 +246,15 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "copilot:Open Copilot Chat": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "termy:打开Termy终端": false
     }
   },
-  "active": "ea84855b0fa96155",
+  "active": "e788bc3c3d91b058",
   "lastOpenFiles": [
+    "笔记/考点.md",
     "第3章 空间域图像增强.pdf",
     "第2章 图像处理基础.pdf",
-    "笔记/考点.md",
     "第1章 绪论.pdf",
     "笔记/第三章.md",
     "第11章 图像处理与计算机视觉进阶.pdf",
