@@ -4,7 +4,7 @@
   "readableLineLength": true,
   "showIndentGuide": false,
   "promptDelete": false,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "showInlineTitle": true,
   "alwaysUpdateLinks": true
 }
