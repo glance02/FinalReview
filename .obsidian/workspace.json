@@ -4,63 +4,118 @@
     "type": "split",
     "children": [
       {
-        "id": "e16ee911e2c9e1e7",
+        "id": "bd9aef4cc5a39205",
         "type": "tabs",
-        "dimension": 61.38968481375359,
+        "dimension": 53.78461538461538,
         "children": [
-          {
-            "id": "193577b1548ff523",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数字图像处理/第3章 空间域图像增强.pdf",
-                "page": 36,
-                "left": -21,
-                "top": 74,
-                "zoom": 0.7390625000000001
-              },
-              "icon": "lucide-file-text",
-              "title": "第3章 空间域图像增强"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0b8e983c8ce92baa",
-        "type": "tabs",
-        "dimension": 38.61031518624642,
-        "children": [
-          {
-            "id": "01f199ebb5f6b6ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/考点.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "考点"
-            }
-          },
           {
             "id": "a9a7d40656fe1acc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "笔记/数字图像处理期末复习考点整理.md",
-                "mode": "source",
-                "source": false
+                "file": "kqq图像处理/第4章 图像的正交变换-48.pdf",
+                "page": 14,
+                "left": -20,
+                "top": 157,
+                "zoom": 0.8053021856067604
               },
-              "icon": "lucide-file",
-              "title": "数字图像处理期末复习考点整理"
+              "icon": "lucide-file-text",
+              "title": "第4章 图像的正交变换-48"
+            }
+          },
+          {
+            "id": "9e10d24f4eafa5f6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "kqq图像处理/第4章 图像的正交变换-48.pdf",
+                "page": 17,
+                "left": -20,
+                "top": 557,
+                "zoom": 0.8053021856067604
+              },
+              "icon": "lucide-file-text",
+              "title": "第4章 图像的正交变换-48"
+            }
+          },
+          {
+            "id": "6090e47bc0cdf601",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "kqq图像处理/第3章 图像基本运算-讲到第10页了.pdf",
+                "page": 8,
+                "left": -18,
+                "top": 74,
+                "zoom": 0.8284635316529725
+              },
+              "icon": "lucide-file-text",
+              "title": "第3章 图像基本运算-讲到第10页了"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "b0d8afd4301a0dad",
+        "type": "split",
+        "dimension": 46.21538461538462,
+        "children": [
+          {
+            "id": "0b8e983c8ce92baa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7013a7874163b478",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "笔记/数字图像处理期末复习考点整理.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "数字图像处理期末复习考点整理"
+                }
+              },
+              {
+                "id": "1a211ea596a2674c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "笔记/考点.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "考点"
+                }
+              }
+            ]
+          },
+          {
+            "id": "e69872590fe9226f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a5ba9fbb8e90fa02",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal-view",
+                  "state": {},
+                  "icon": "terminal",
+                  "title": "Terminal"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -117,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "208dfd4c88ee3ecc",
@@ -133,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/ip_derper.md",
+                "file": "笔记/数字图像处理期末复习考点整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +199,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "ip_derper 的反向链接列表"
+              "title": "数字图像处理期末复习考点整理 的反向链接列表"
             }
           },
           {
@@ -195,27 +251,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/第三章.md",
+                "file": "笔记/数字图像处理期末复习考点整理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第三章 的大纲"
-            }
-          },
-          {
-            "id": "f9e72d1de4965cba",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "title": "数字图像处理期末复习考点整理 的大纲"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -234,63 +280,38 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "copilot:Open Copilot Chat": false,
       "termy:打开Termy终端": false
     }
   },
-  "floating": {
-    "id": "6c49c80901c7addb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3ab8d65e1e0cbc33",
-        "type": "window",
-        "children": [
-          {
-            "id": "69f90b289d80f8ac",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6599904194f18107",
-                "type": "leaf",
-                "state": {
-                  "type": "terminal-view",
-                  "state": {},
-                  "icon": "terminal",
-                  "title": "Terminal"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 512,
-        "y": 152,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "6599904194f18107",
+  "active": "a5ba9fbb8e90fa02",
   "lastOpenFiles": [
+    "kqq图像处理/第3章 图像基本运算-讲到第10页了.pdf",
     "笔记/数字图像处理期末复习考点整理.md",
-    "笔记/考点.md",
-    "数字图像处理/第3章 空间域图像增强.pdf",
-    "数字图像处理/第4章 频率域图像增强.pdf",
-    "数字图像处理/第9章 离散图像变换.pdf",
-    "数字图像处理/第10章 图像压缩.pdf",
-    "copilot/第11章 图像处理与计算机视觉进阶.pdf",
+    "kqq图像处理/第2章 数字图像基础-讲到了65页.pdf",
+    "笔记/figures/Pasted image 20260703231552.png",
+    "笔记/figures/Pasted image 20260703231518.png",
+    "笔记/figures/Pasted image 20260703231509.png",
+    "笔记/figures/Pasted image 20260703231451.png",
+    "笔记/figures/Pasted image 20260703231439.png",
+    "笔记/figures/Pasted image 20260703231018.png",
+    "笔记/figures/Pasted image 20260703230953.png",
+    "笔记/figures/Pasted image 20260703230041.png",
+    "笔记/figures/Pasted image 20260703230015.png",
+    "笔记/figures/Pasted image 20260703225957.png",
     "数字图像处理/第2章 图像处理基础.pdf",
-    "数字图像处理",
+    "kqq图像处理/第1章 绪论2026.04.20.pdf",
+    "笔记/考点.md",
+    "数字图像处理期末复习考点整理.pdf",
+    "笔记/figures",
+    "kqq图像处理/第11章 图像分割.pdf",
+    "kqq图像处理/第10章 图像的数学形态学处理.pdf",
+    "kqq图像处理/第9章 图像复原.pdf",
+    "kqq图像处理/第8章 彩色图像增强.pdf",
+    "笔记/云计算考点.md",
     "copilot/copilot-conversations/I_don't_have_any_previous_conversation_content_to_@20260623_231830.md",
-    "数字图像处理/第1章 绪论.pdf",
     "copilot/copilot-conversations/PDF灰度变换方法总结@20260624_170602.md",
     "copilot/memory/Recent Conversations.md",
-    "copilot/memory",
     "copilot/copilot-conversations/基本灰度变换方法总结@20260624_170518.md",
-    "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -309,15 +330,6 @@
     "学习笔记/记背/main.md",
     "工程实践/docker部署/alist.md",
     "系统运维/Windows/将D盘存储分给C盘.md",
-    "工程实践/服务器与网络/ssh.md",
-    "笔记/pic/pic2.png",
-    "笔记/pic/pic1.png",
-    "社交网络/pic/nsga2_flowchart.svg",
-    "笔记/pic/Pasted image 20260611101859.png",
-    "笔记/pic/Pasted image 20260611102021.png",
-    "社交网络/pic/nsga2_pareto_front.svg",
-    "社交网络/pic/imm_algorithm_flowchart.svg",
-    "IMG20260302200902.jpg",
     "未命名.canvas"
   ]
 }

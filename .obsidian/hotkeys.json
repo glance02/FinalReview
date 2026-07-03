@@ -55,5 +55,13 @@
       ],
       "key": "D"
     }
+  ],
+  "termy:open-terminal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
   ]
 }
