@@ -11,7 +11,7 @@
   },
   "shellArgs": [],
   "autoEnterVaultDirectory": true,
-  "newInstanceBehavior": "newHorizontalSplit",
+  "newInstanceBehavior": "newWindow",
   "createInstanceNearExistingOnes": true,
   "focusNewInstance": true,
   "lockNewInstance": false,

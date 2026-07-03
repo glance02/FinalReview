@@ -4,52 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "ab1da66c8c1fbc59",
-        "type": "split",
+        "id": "e16ee911e2c9e1e7",
+        "type": "tabs",
         "dimension": 61.38968481375359,
         "children": [
           {
-            "id": "e16ee911e2c9e1e7",
-            "type": "tabs",
-            "dimension": 60.11904761904761,
-            "children": [
-              {
-                "id": "193577b1548ff523",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "第3章 空间域图像增强.pdf",
-                    "page": 1,
-                    "left": -20,
-                    "top": 544,
-                    "zoom": 0.8351562499999999
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "第3章 空间域图像增强"
-                }
-              }
-            ]
-          },
-          {
-            "id": "15fee24ce45fa04a",
-            "type": "tabs",
-            "dimension": 39.88095238095239,
-            "children": [
-              {
-                "id": "e788bc3c3d91b058",
-                "type": "leaf",
-                "state": {
-                  "type": "terminal-view",
-                  "state": {},
-                  "icon": "terminal",
-                  "title": "Terminal"
-                }
-              }
-            ]
+            "id": "193577b1548ff523",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数字图像处理/第3章 空间域图像增强.pdf",
+                "page": 36,
+                "left": -21,
+                "top": 74,
+                "zoom": 0.7390625000000001
+              },
+              "icon": "lucide-file-text",
+              "title": "第3章 空间域图像增强"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       },
       {
         "id": "0b8e983c8ce92baa",
@@ -69,8 +44,23 @@
               "icon": "lucide-file",
               "title": "考点"
             }
+          },
+          {
+            "id": "a9a7d40656fe1acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/数字图像处理期末复习考点整理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数字图像处理期末复习考点整理"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "208dfd4c88ee3ecc",
@@ -246,23 +235,61 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "copilot:Open Copilot Chat": false,
-      "terminal:Open terminal": false,
       "termy:打开Termy终端": false
     }
   },
-  "active": "e788bc3c3d91b058",
+  "floating": {
+    "id": "6c49c80901c7addb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3ab8d65e1e0cbc33",
+        "type": "window",
+        "children": [
+          {
+            "id": "69f90b289d80f8ac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6599904194f18107",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal-view",
+                  "state": {},
+                  "icon": "terminal",
+                  "title": "Terminal"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 512,
+        "y": 152,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "6599904194f18107",
   "lastOpenFiles": [
+    "笔记/数字图像处理期末复习考点整理.md",
     "笔记/考点.md",
-    "第3章 空间域图像增强.pdf",
-    "第2章 图像处理基础.pdf",
-    "第1章 绪论.pdf",
-    "笔记/第三章.md",
-    "第11章 图像处理与计算机视觉进阶.pdf",
+    "数字图像处理/第3章 空间域图像增强.pdf",
+    "数字图像处理/第4章 频率域图像增强.pdf",
+    "数字图像处理/第9章 离散图像变换.pdf",
+    "数字图像处理/第10章 图像压缩.pdf",
+    "copilot/第11章 图像处理与计算机视觉进阶.pdf",
+    "数字图像处理/第2章 图像处理基础.pdf",
+    "数字图像处理",
+    "copilot/copilot-conversations/I_don't_have_any_previous_conversation_content_to_@20260623_231830.md",
+    "数字图像处理/第1章 绪论.pdf",
     "copilot/copilot-conversations/PDF灰度变换方法总结@20260624_170602.md",
     "copilot/memory/Recent Conversations.md",
     "copilot/memory",
     "copilot/copilot-conversations/基本灰度变换方法总结@20260624_170518.md",
-    "copilot/copilot-conversations/I_don't_have_any_previous_conversation_content_to_@20260623_231830.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
@@ -279,14 +306,10 @@
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "笔记",
     "学习笔记/记背/main.md",
     "工程实践/docker部署/alist.md",
     "系统运维/Windows/将D盘存储分给C盘.md",
     "工程实践/服务器与网络/ssh.md",
-    "工程实践/docker部署",
     "笔记/pic/pic2.png",
     "笔记/pic/pic1.png",
     "社交网络/pic/nsga2_flowchart.svg",

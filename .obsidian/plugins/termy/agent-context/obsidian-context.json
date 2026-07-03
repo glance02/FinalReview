@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "source": "termy",
-  "updatedAt": "2026-06-29T04:52:42.819Z",
+  "updatedAt": "2026-07-03T06:18:21.801Z",
   "vaultRoot": "C:/Users/glance/Desktop/图像处理与计算机视觉",
   "workspaceFolders": [
     "C:/Users/glance/Desktop/图像处理与计算机视觉"
   ],
   "activeFile": {
-    "filePath": "C:\\Users\\glance\\Desktop\\图像处理与计算机视觉\\第3章 空间域图像增强.pdf",
-    "vaultPath": "第3章 空间域图像增强.pdf",
-    "fileUrl": "file:///C:/Users/glance/Desktop/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/%E7%AC%AC3%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%9F%9F%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA.pdf",
+    "filePath": "C:\\Users\\glance\\Desktop\\图像处理与计算机视觉\\数字图像处理\\第3章 空间域图像增强.pdf",
+    "vaultPath": "数字图像处理/第3章 空间域图像增强.pdf",
+    "fileUrl": "file:///C:/Users/glance/Desktop/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/%E7%AC%AC3%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%9F%9F%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA.pdf",
     "hasFocus": false
   },
   "openFiles": [
@@ -17,6 +17,12 @@
       "filePath": "C:\\Users\\glance\\Desktop\\图像处理与计算机视觉\\笔记\\考点.md",
       "vaultPath": "笔记/考点.md",
       "fileUrl": "file:///C:/Users/glance/Desktop/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/%E7%AC%94%E8%AE%B0/%E8%80%83%E7%82%B9.md",
+      "isActive": false
+    },
+    {
+      "filePath": "C:\\Users\\glance\\Desktop\\图像处理与计算机视觉\\笔记\\数字图像处理期末复习考点整理.md",
+      "vaultPath": "笔记/数字图像处理期末复习考点整理.md",
+      "fileUrl": "file:///C:/Users/glance/Desktop/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/%E7%AC%94%E8%AE%B0/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%80%83%E7%82%B9%E6%95%B4%E7%90%86.md",
       "isActive": false
     }
   ],
