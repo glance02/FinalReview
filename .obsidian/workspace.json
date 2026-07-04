@@ -41,81 +41,79 @@
             }
           },
           {
-            "id": "6090e47bc0cdf601",
+            "id": "8bd107297054b1f0",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "kqq图像处理/第3章 图像基本运算-讲到第10页了.pdf",
-                "page": 8,
+                "file": "kqq图像处理/第10章 图像的数学形态学处理.pdf",
+                "page": 13,
                 "left": -18,
-                "top": 74,
+                "top": 234,
                 "zoom": 0.8284635316529725
               },
               "icon": "lucide-file-text",
-              "title": "第3章 图像基本运算-讲到第10页了"
+              "title": "第10章 图像的数学形态学处理"
             }
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "b0d8afd4301a0dad",
-        "type": "split",
+        "id": "0b8e983c8ce92baa",
+        "type": "tabs",
         "dimension": 46.21538461538462,
         "children": [
           {
-            "id": "0b8e983c8ce92baa",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7013a7874163b478",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "笔记/数字图像处理期末复习考点整理.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "数字图像处理期末复习考点整理"
-                }
+            "id": "7013a7874163b478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/数字图像处理期末复习考点整理.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "1a211ea596a2674c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "笔记/考点.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "考点"
-                }
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "数字图像处理期末复习考点整理"
+            }
           },
           {
-            "id": "e69872590fe9226f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a5ba9fbb8e90fa02",
-                "type": "leaf",
-                "state": {
-                  "type": "terminal-view",
-                  "state": {},
-                  "icon": "terminal",
-                  "title": "Terminal"
-                }
-              }
-            ]
+            "id": "1a211ea596a2674c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/考点.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "考点"
+            }
+          },
+          {
+            "id": "a83e065a3689ded2",
+            "type": "leaf",
+            "state": {
+              "type": "terminal-view",
+              "state": {},
+              "icon": "terminal",
+              "title": "Terminal"
+            }
+          },
+          {
+            "id": "50d7221015c6a479",
+            "type": "leaf",
+            "state": {
+              "type": "terminal-view",
+              "state": {},
+              "icon": "terminal",
+              "title": "Terminal"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -283,30 +281,30 @@
       "termy:打开Termy终端": false
     }
   },
-  "active": "a5ba9fbb8e90fa02",
+  "active": "50d7221015c6a479",
   "lastOpenFiles": [
-    "kqq图像处理/第3章 图像基本运算-讲到第10页了.pdf",
+    "kqq图像处理/第9章 图像复原.pdf",
     "笔记/数字图像处理期末复习考点整理.md",
+    "笔记/figures/Pasted image 20260705004131.png",
+    "笔记/figures/Pasted image 20260705004129.png",
+    "笔记/figures/Pasted image 20260705004112.png",
+    "笔记/figures/Pasted image 20260705004038.png",
+    "笔记/figures/Pasted image 20260705003922.png",
+    "笔记/figures/Pasted image 20260705001713.png",
+    "笔记/figures/Pasted image 20260705001621.png",
+    "笔记/figures/Pasted image 20260704233305.png",
+    "笔记/figures/Pasted image 20260704231928.png",
+    "笔记/figures/Pasted image 20260704231458.png",
+    "kqq图像处理/第8章 彩色图像增强.pdf",
+    "kqq图像处理/第7章 图像锐化.pdf",
+    "kqq图像处理/第6章 图像平滑-40.pdf",
+    "kqq图像处理/第5章 图像增强03.pdf",
+    "笔记/考点.md",
+    "数字图像处理/第3章 空间域图像增强.pdf",
+    "kqq图像处理/第3章 图像基本运算-讲到第10页了.pdf",
     "kqq图像处理/第2章 数字图像基础-讲到了65页.pdf",
-    "笔记/figures/Pasted image 20260703231552.png",
-    "笔记/figures/Pasted image 20260703231518.png",
-    "笔记/figures/Pasted image 20260703231509.png",
-    "笔记/figures/Pasted image 20260703231451.png",
-    "笔记/figures/Pasted image 20260703231439.png",
-    "笔记/figures/Pasted image 20260703231018.png",
-    "笔记/figures/Pasted image 20260703230953.png",
-    "笔记/figures/Pasted image 20260703230041.png",
-    "笔记/figures/Pasted image 20260703230015.png",
-    "笔记/figures/Pasted image 20260703225957.png",
     "数字图像处理/第2章 图像处理基础.pdf",
     "kqq图像处理/第1章 绪论2026.04.20.pdf",
-    "笔记/考点.md",
-    "数字图像处理期末复习考点整理.pdf",
-    "笔记/figures",
-    "kqq图像处理/第11章 图像分割.pdf",
-    "kqq图像处理/第10章 图像的数学形态学处理.pdf",
-    "kqq图像处理/第9章 图像复原.pdf",
-    "kqq图像处理/第8章 彩色图像增强.pdf",
     "笔记/云计算考点.md",
     "copilot/copilot-conversations/I_don't_have_any_previous_conversation_content_to_@20260623_231830.md",
     "copilot/copilot-conversations/PDF灰度变换方法总结@20260624_170602.md",
