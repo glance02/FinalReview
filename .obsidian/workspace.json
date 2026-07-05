@@ -13,31 +13,34 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "云计算/01云计算概述.pdf",
-                "page": 57,
-                "left": -17,
-                "top": 396,
-                "zoom": 0.896875
+                "file": "kqq图像处理/第9章 图像复原.pdf",
+                "page": 39,
+                "left": -21,
+                "top": 91,
+                "zoom": 0.7669968825303326
               },
               "icon": "lucide-file-text",
-              "title": "01云计算概述"
+              "title": "第9章 图像复原"
             }
           },
           {
-            "id": "772c473679e7df54",
+            "id": "7035759777bf03dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "笔记/插值算法.md",
-                "mode": "source",
-                "source": false
+                "file": "kqq图像处理/第3章 图像基本运算-讲到第10页了.pdf",
+                "page": 24,
+                "left": -21,
+                "top": 244,
+                "zoom": 0.7669968825303326
               },
-              "icon": "lucide-file",
-              "title": "插值算法"
+              "icon": "lucide-file-text",
+              "title": "第3章 图像基本运算-讲到第10页了"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0b8e983c8ce92baa",
@@ -252,32 +255,31 @@
   },
   "active": "0576def6323e47d6",
   "lastOpenFiles": [
-    "笔记/figures/Pasted image 20260705210114.png",
+    "kqq图像处理/第3章 图像基本运算-讲到第10页了.pdf",
+    "笔记/数字图像处理期末复习考点整理.md",
+    "kqq图像处理/第9章 图像复原.pdf",
+    "数字图像处理/第3章 空间域图像增强.pdf",
+    "笔记/插值算法.md",
+    "笔记/figures/Pasted image 20260705221021.png",
+    "笔记/figures/Pasted image 20260705221006.png",
+    "笔记/figures/Pasted image 20260705220956.png",
+    "笔记/figures/Pasted image 20260705220942.png",
+    "笔记/figures/Pasted image 20260705220913.png",
+    "笔记/figures/Pasted image 20260705220844.png",
+    "未命名.md",
+    "数字图像处理/第9章 离散图像变换.pdf",
+    "kqq图像处理/第5章 图像增强03.pdf",
+    "笔记/figures/Pasted image 20260705215305.png",
+    "数字图像处理/第4章 频率域图像增强.pdf",
     "云计算/01云计算概述.pdf",
     "笔记/云计算考点整理.md",
-    "笔记/数字图像处理期末复习考点整理.md",
-    "未命名.md",
-    "kqq图像处理/第3章 图像基本运算-讲到第10页了.pdf",
+    "笔记/figures/Pasted image 20260705210114.png",
     "笔记/figures/Pasted image 20260705194902.png",
     "笔记/figures/Pasted image 20260705194835.png",
-    "笔记/figures/Pasted image 20260705180914.png",
-    "笔记/figures/Pasted image 20260705180845.png",
-    "笔记/插值算法.md",
-    "笔记/figures/Pasted image 20260705172552.png",
-    "笔记/figures/Pasted image 20260705172545.png",
-    "笔记/figures/Pasted image 20260705172530.png",
-    "笔记/figures/Pasted image 20260705172528.png",
     "kqq图像处理/第2章 数字图像基础-讲到了65页.pdf",
     "笔记/考点.md",
     "kqq图像处理/第11章 图像分割.pdf",
     "kqq图像处理/第10章 图像的数学形态学处理.pdf",
-    "笔记/figures/Pasted image 20260705143700.png",
-    "笔记/figures/Pasted image 20260705143524.png",
-    "kqq图像处理/第9章 图像复原.pdf",
-    "kqq图像处理/第8章 彩色图像增强.pdf",
-    "kqq图像处理/第7章 图像锐化.pdf",
-    "kqq图像处理/第6章 图像平滑-40.pdf",
-    "kqq图像处理/第5章 图像增强03.pdf",
     "copilot/copilot-conversations/I_don't_have_any_previous_conversation_content_to_@20260623_231830.md",
     "copilot/copilot-conversations/PDF灰度变换方法总结@20260624_170602.md",
     "copilot/memory/Recent Conversations.md",
