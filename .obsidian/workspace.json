@@ -6,6 +6,7 @@
       {
         "id": "f3b7043a635fa456",
         "type": "tabs",
+        "dimension": 36.77736777367774,
         "children": [
           {
             "id": "d5b34160c3f9de01",
@@ -29,25 +30,42 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "kqq图像处理/第3章 图像基本运算-讲到第10页了.pdf",
-                "page": 24,
+                "file": "kqq图像处理/第2章 数字图像基础-讲到了65页.pdf",
+                "page": 76,
                 "left": -21,
-                "top": 244,
+                "top": 96,
                 "zoom": 0.7669968825303326
               },
               "icon": "lucide-file-text",
-              "title": "第3章 图像基本运算-讲到第10页了"
+              "title": "第2章 数字图像基础-讲到了65页"
+            }
+          },
+          {
+            "id": "7013a7874163b478",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "kqq图像处理/习题课.pdf",
+                "page": 12,
+                "left": -31,
+                "top": 534,
+                "zoom": 0.4863882669704549
+              },
+              "icon": "lucide-file-text",
+              "title": "习题课"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "0b8e983c8ce92baa",
         "type": "tabs",
+        "dimension": 63.22263222632226,
         "children": [
           {
-            "id": "7013a7874163b478",
+            "id": "2a6c991a8a55f547",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,7 +99,7 @@
               "type": "terminal-view",
               "state": {},
               "icon": "terminal",
-              "title": "Terminal"
+              "title": "Claude Code"
             }
           }
         ],
@@ -142,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "208dfd4c88ee3ecc",
@@ -253,10 +270,12 @@
       "termy:打开Termy终端": false
     }
   },
-  "active": "0576def6323e47d6",
+  "active": "7013a7874163b478",
   "lastOpenFiles": [
-    "kqq图像处理/第3章 图像基本运算-讲到第10页了.pdf",
     "笔记/数字图像处理期末复习考点整理.md",
+    "kqq图像处理/习题课.pdf",
+    "kqq图像处理/第3章 图像基本运算-讲到第10页了.pdf",
+    "kqq图像处理/第2章 数字图像基础-讲到了65页.pdf",
     "kqq图像处理/第9章 图像复原.pdf",
     "数字图像处理/第3章 空间域图像增强.pdf",
     "笔记/插值算法.md",
@@ -276,10 +295,8 @@
     "笔记/figures/Pasted image 20260705210114.png",
     "笔记/figures/Pasted image 20260705194902.png",
     "笔记/figures/Pasted image 20260705194835.png",
-    "kqq图像处理/第2章 数字图像基础-讲到了65页.pdf",
     "笔记/考点.md",
     "kqq图像处理/第11章 图像分割.pdf",
-    "kqq图像处理/第10章 图像的数学形态学处理.pdf",
     "copilot/copilot-conversations/I_don't_have_any_previous_conversation_content_to_@20260623_231830.md",
     "copilot/copilot-conversations/PDF灰度变换方法总结@20260624_170602.md",
     "copilot/memory/Recent Conversations.md",
