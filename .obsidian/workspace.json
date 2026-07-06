@@ -6,7 +6,7 @@
       {
         "id": "f3b7043a635fa456",
         "type": "tabs",
-        "dimension": 57.306590257879655,
+        "dimension": 44.55587392550143,
         "children": [
           {
             "id": "7035759777bf03dd",
@@ -16,77 +16,90 @@
               "state": {
                 "file": "kqq图像处理/第9章 图像复原.pdf",
                 "page": 9,
-                "left": -29,
-                "top": 515,
-                "zoom": 0.5362742430699886
+                "left": -31,
+                "top": 531,
+                "zoom": 0.5077679710131121
               },
               "icon": "lucide-file-text",
               "title": "第9章 图像复原"
             }
           },
           {
-            "id": "a0fea972b54e7816",
-            "type": "leaf",
-            "state": {
-              "type": "terminal-view",
-              "state": {},
-              "icon": "terminal",
-              "title": "Claude Code"
-            }
-          },
-          {
-            "id": "7013a7874163b478",
+            "id": "0903e619f3afc610",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "kqq图像处理/习题课.pdf",
-                "page": 1,
-                "left": -46,
-                "top": 599,
-                "zoom": 0.34563854868962723
+                "file": "数字图像处理/第4章 频率域图像增强.pdf",
+                "page": 5,
+                "left": -34,
+                "top": 368,
+                "zoom": 0.44531250000000006
               },
               "icon": "lucide-file-text",
-              "title": "习题课"
+              "title": "第4章 频率域图像增强"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "0b8e983c8ce92baa",
-        "type": "tabs",
-        "dimension": 42.693409742120345,
+        "id": "faae9a4cf9497143",
+        "type": "split",
+        "dimension": 55.44412607449857,
         "children": [
           {
-            "id": "2a6c991a8a55f547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/数字图像处理期末复习考点整理.md",
-                "mode": "source",
-                "source": false
+            "id": "0b8e983c8ce92baa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2a6c991a8a55f547",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "笔记/数字图像处理期末复习考点整理.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "数字图像处理期末复习考点整理"
+                }
               },
-              "icon": "lucide-file",
-              "title": "数字图像处理期末复习考点整理"
-            }
+              {
+                "id": "00a96c28c3469f8b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "笔记/云计算考点整理.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "云计算考点整理"
+                }
+              }
+            ]
           },
           {
-            "id": "00a96c28c3469f8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/云计算考点整理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "云计算考点整理"
-            }
+            "id": "9e587ca3f1bcc1d9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e292882f8dcad236",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal-view",
+                  "state": {},
+                  "icon": "terminal",
+                  "title": "Terminal"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -254,12 +267,16 @@
       "termy:打开Termy终端": false
     }
   },
-  "active": "a0fea972b54e7816",
+  "active": "e292882f8dcad236",
   "lastOpenFiles": [
-    "kqq图像处理/第9章 图像复原.pdf",
-    "kqq图像处理/第6章 图像平滑-40.pdf",
-    "笔记/数字图像处理期末复习考点整理.md",
+    "笔记/figures/Pasted image 20260706200319.png",
+    "kqq图像处理/习题课.pdf",
+    "数字图像处理/第4章 频率域图像增强.pdf",
     "kqq图像处理/第4章 图像的正交变换-48.pdf",
+    "笔记/数字图像处理期末复习考点整理.md",
+    "kqq图像处理/第9章 图像复原.pdf",
+    "笔记/云计算考点整理.md",
+    "kqq图像处理/第6章 图像平滑-40.pdf",
     "kqq图像处理/第2章 数字图像基础-讲到了65页.pdf",
     "笔记/figures/_small/test.png",
     "笔记/figures/_small/div.jpg",
@@ -271,15 +288,12 @@
     "笔记/figures/_small/sub.png",
     "笔记/figures/_small/add.png",
     "笔记/figures/_small",
-    "笔记/云计算考点整理.md",
-    "kqq图像处理/习题课.pdf",
     "kqq图像处理/第3章 图像基本运算-讲到第10页了.pdf",
     "数字图像处理/第3章 空间域图像增强.pdf",
     "笔记/插值算法.md",
     "笔记/figures/Pasted image 20260705221021.png",
     "未命名.md",
     "数字图像处理/第9章 离散图像变换.pdf",
-    "kqq图像处理/第5章 图像增强03.pdf",
     "笔记/考点.md",
     "copilot/copilot-conversations/I_don't_have_any_previous_conversation_content_to_@20260623_231830.md",
     "copilot/copilot-conversations/PDF灰度变换方法总结@20260624_170602.md",
