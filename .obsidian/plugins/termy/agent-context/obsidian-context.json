@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "source": "termy",
-  "updatedAt": "2026-07-06T05:57:50.951Z",
-  "vaultRoot": "C:/Users/glance/Desktop/图像处理与计算机视觉",
+  "updatedAt": "2026-07-06T10:02:51.633Z",
+  "vaultRoot": "C:/Users/86199/Desktop/FinalReview",
   "workspaceFolders": [
-    "C:/Users/glance/Desktop/图像处理与计算机视觉"
+    "C:/Users/86199/Desktop/FinalReview"
   ],
   "activeFile": {
-    "filePath": "C:\\Users\\glance\\Desktop\\图像处理与计算机视觉\\kqq图像处理\\习题课.pdf",
-    "vaultPath": "kqq图像处理/习题课.pdf",
-    "fileUrl": "file:///C:/Users/glance/Desktop/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/kqq%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf",
+    "filePath": "C:\\Users\\86199\\Desktop\\FinalReview\\笔记\\数字图像处理期末复习考点整理.md",
+    "vaultPath": "笔记/数字图像处理期末复习考点整理.md",
+    "fileUrl": "file:///C:/Users/86199/Desktop/FinalReview/%E7%AC%94%E8%AE%B0/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%80%83%E7%82%B9%E6%95%B4%E7%90%86.md",
     "hasFocus": false
   },
   "openFiles": [
     {
-      "filePath": "C:\\Users\\glance\\Desktop\\图像处理与计算机视觉\\笔记\\数字图像处理期末复习考点整理.md",
+      "filePath": "C:\\Users\\86199\\Desktop\\FinalReview\\笔记\\数字图像处理期末复习考点整理.md",
       "vaultPath": "笔记/数字图像处理期末复习考点整理.md",
-      "fileUrl": "file:///C:/Users/glance/Desktop/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/%E7%AC%94%E8%AE%B0/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%80%83%E7%82%B9%E6%95%B4%E7%90%86.md",
-      "isActive": false
+      "fileUrl": "file:///C:/Users/86199/Desktop/FinalReview/%E7%AC%94%E8%AE%B0/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%80%83%E7%82%B9%E6%95%B4%E7%90%86.md",
+      "isActive": true
     },
     {
-      "filePath": "C:\\Users\\glance\\Desktop\\图像处理与计算机视觉\\笔记\\云计算考点整理.md",
+      "filePath": "C:\\Users\\86199\\Desktop\\FinalReview\\笔记\\云计算考点整理.md",
       "vaultPath": "笔记/云计算考点整理.md",
-      "fileUrl": "file:///C:/Users/glance/Desktop/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/%E7%AC%94%E8%AE%B0/%E4%BA%91%E8%AE%A1%E7%AE%97%E8%80%83%E7%82%B9%E6%95%B4%E7%90%86.md",
+      "fileUrl": "file:///C:/Users/86199/Desktop/FinalReview/%E7%AC%94%E8%AE%B0/%E4%BA%91%E8%AE%A1%E7%AE%97%E8%80%83%E7%82%B9%E6%95%B4%E7%90%86.md",
       "isActive": false
     }
   ],

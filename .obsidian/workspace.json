@@ -6,38 +6,32 @@
       {
         "id": "f3b7043a635fa456",
         "type": "tabs",
-        "dimension": 36.77736777367774,
+        "dimension": 57.306590257879655,
         "children": [
-          {
-            "id": "d5b34160c3f9de01",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "kqq图像处理/第9章 图像复原.pdf",
-                "page": 39,
-                "left": -21,
-                "top": 91,
-                "zoom": 0.7669968825303326
-              },
-              "icon": "lucide-file-text",
-              "title": "第9章 图像复原"
-            }
-          },
           {
             "id": "7035759777bf03dd",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "kqq图像处理/第2章 数字图像基础-讲到了65页.pdf",
-                "page": 76,
-                "left": -21,
-                "top": 96,
-                "zoom": 0.7669968825303326
+                "file": "kqq图像处理/第9章 图像复原.pdf",
+                "page": 9,
+                "left": -29,
+                "top": 515,
+                "zoom": 0.5362742430699886
               },
               "icon": "lucide-file-text",
-              "title": "第2章 数字图像基础-讲到了65页"
+              "title": "第9章 图像复原"
+            }
+          },
+          {
+            "id": "a0fea972b54e7816",
+            "type": "leaf",
+            "state": {
+              "type": "terminal-view",
+              "state": {},
+              "icon": "terminal",
+              "title": "Claude Code"
             }
           },
           {
@@ -47,22 +41,22 @@
               "type": "pdf",
               "state": {
                 "file": "kqq图像处理/习题课.pdf",
-                "page": 12,
-                "left": -31,
-                "top": 534,
-                "zoom": 0.4863882669704549
+                "page": 1,
+                "left": -46,
+                "top": 599,
+                "zoom": 0.34563854868962723
               },
               "icon": "lucide-file-text",
               "title": "习题课"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "0b8e983c8ce92baa",
         "type": "tabs",
-        "dimension": 63.22263222632226,
+        "dimension": 42.693409742120345,
         "children": [
           {
             "id": "2a6c991a8a55f547",
@@ -91,19 +85,8 @@
               "icon": "lucide-file",
               "title": "云计算考点整理"
             }
-          },
-          {
-            "id": "0576def6323e47d6",
-            "type": "leaf",
-            "state": {
-              "type": "terminal-view",
-              "state": {},
-              "icon": "terminal",
-              "title": "Claude Code"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "208dfd4c88ee3ecc",
@@ -270,33 +254,33 @@
       "termy:打开Termy终端": false
     }
   },
-  "active": "7013a7874163b478",
+  "active": "a0fea972b54e7816",
   "lastOpenFiles": [
+    "kqq图像处理/第9章 图像复原.pdf",
+    "kqq图像处理/第6章 图像平滑-40.pdf",
     "笔记/数字图像处理期末复习考点整理.md",
+    "kqq图像处理/第4章 图像的正交变换-48.pdf",
+    "kqq图像处理/第2章 数字图像基础-讲到了65页.pdf",
+    "笔记/figures/_small/test.png",
+    "笔记/figures/_small/div.jpg",
+    "笔记/figures/_small/mul.jpg",
+    "笔记/figures/_small/sub.jpg",
+    "笔记/figures/_small/add.jpg",
+    "笔记/figures/_small/div.png",
+    "笔记/figures/_small/mul.png",
+    "笔记/figures/_small/sub.png",
+    "笔记/figures/_small/add.png",
+    "笔记/figures/_small",
+    "笔记/云计算考点整理.md",
     "kqq图像处理/习题课.pdf",
     "kqq图像处理/第3章 图像基本运算-讲到第10页了.pdf",
-    "kqq图像处理/第2章 数字图像基础-讲到了65页.pdf",
-    "kqq图像处理/第9章 图像复原.pdf",
     "数字图像处理/第3章 空间域图像增强.pdf",
     "笔记/插值算法.md",
     "笔记/figures/Pasted image 20260705221021.png",
-    "笔记/figures/Pasted image 20260705221006.png",
-    "笔记/figures/Pasted image 20260705220956.png",
-    "笔记/figures/Pasted image 20260705220942.png",
-    "笔记/figures/Pasted image 20260705220913.png",
-    "笔记/figures/Pasted image 20260705220844.png",
     "未命名.md",
     "数字图像处理/第9章 离散图像变换.pdf",
     "kqq图像处理/第5章 图像增强03.pdf",
-    "笔记/figures/Pasted image 20260705215305.png",
-    "数字图像处理/第4章 频率域图像增强.pdf",
-    "云计算/01云计算概述.pdf",
-    "笔记/云计算考点整理.md",
-    "笔记/figures/Pasted image 20260705210114.png",
-    "笔记/figures/Pasted image 20260705194902.png",
-    "笔记/figures/Pasted image 20260705194835.png",
     "笔记/考点.md",
-    "kqq图像处理/第11章 图像分割.pdf",
     "copilot/copilot-conversations/I_don't_have_any_previous_conversation_content_to_@20260623_231830.md",
     "copilot/copilot-conversations/PDF灰度变换方法总结@20260624_170602.md",
     "copilot/memory/Recent Conversations.md",

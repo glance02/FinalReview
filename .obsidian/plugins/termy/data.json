@@ -19,7 +19,7 @@
   "fontFamily": "JetBrainsMono Nerd Font",
   "cursorStyle": "block",
   "cursorBlink": true,
-  "useObsidianTheme": false,
+  "useObsidianTheme": true,
   "preferredRenderer": "webgl",
   "scrollback": 1000,
   "backgroundImageOpacity": 0.5,
@@ -122,6 +122,6 @@
   ],
   "lastSeenChangelogVersion": "1.4.1",
   "enableDebugLog": false,
-  "backgroundColor": "#2f383e",
+  "backgroundColor": "#fdf6e3",
   "foregroundColor": "#d3c6aa"
 }
