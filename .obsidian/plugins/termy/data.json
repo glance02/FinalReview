@@ -121,5 +121,7 @@
     }
   ],
   "lastSeenChangelogVersion": "1.4.1",
-  "enableDebugLog": false
+  "enableDebugLog": false,
+  "backgroundColor": "#2f383e",
+  "foregroundColor": "#d3c6aa"
 }
