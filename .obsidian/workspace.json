@@ -6,22 +6,22 @@
       {
         "id": "f3b7043a635fa456",
         "type": "tabs",
-        "dimension": 46.41833810888252,
+        "dimension": 43.40974212034384,
         "children": [
           {
-            "id": "0903e619f3afc610",
+            "id": "9961e9df99dfd67c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "云计算/06云计算网络（3）.pdf",
-                "page": 118,
-                "left": -24,
-                "top": 119,
-                "zoom": 0.6208333333333333
+                "file": "云计算/05云存储技术.pdf",
+                "page": 23,
+                "left": -25,
+                "top": 193,
+                "zoom": 0.6291666666666667
               },
               "icon": "lucide-file-text",
-              "title": "06云计算网络（3）"
+              "title": "05云存储技术"
             }
           },
           {
@@ -39,7 +39,21 @@
             }
           },
           {
-            "id": "d09186da3b7d4de6",
+            "id": "532e2fbe63d93bc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "云计算/云计算期末模拟卷_最后一课考点版.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "云计算期末模拟卷_最后一课考点版"
+            }
+          },
+          {
+            "id": "4213a708a93e99ce",
             "type": "leaf",
             "state": {
               "type": "terminal-view",
@@ -49,12 +63,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "0b8e983c8ce92baa",
         "type": "tabs",
-        "dimension": 53.581661891117484,
+        "dimension": 56.59025787965616,
         "children": [
           {
             "id": "00a96c28c3469f8b",
@@ -69,8 +83,23 @@
               "icon": "lucide-file",
               "title": "云计算考点整理"
             }
+          },
+          {
+            "id": "36a17d78fde0f0c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "云计算/云计算期末模拟卷_最后一课考点版_参考答案.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "云计算期末模拟卷_最后一课考点版_参考答案"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/数字图像处理期末复习考点整理.md",
+                "file": "云计算/云计算期末模拟卷_最后一课考点版.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数字图像处理期末复习考点整理 的大纲"
+              "title": "云计算期末模拟卷_最后一课考点版 的大纲"
             }
           }
         ],
@@ -238,29 +267,31 @@
       "termy:打开Termy终端": false
     }
   },
-  "active": "d09186da3b7d4de6",
+  "active": "4213a708a93e99ce",
   "lastOpenFiles": [
-    "笔记/云计算考点整理.md",
+    "云计算/云计算期末模拟卷_最后一课考点版_参考答案.md",
+    "云计算/云计算期末模拟卷_最后一课考点版.md",
     "笔记/最后一课.md",
+    "云计算/2025秋云计算回忆版_HeZzz优化版.txt",
+    "云计算/2025秋云计算回忆版_HeZzz优化版.pdf",
     "云计算/06云计算网络（3）.pdf",
-    "笔记/figures/Pasted image 20260708164659.png",
+    "笔记/云计算考点整理.md",
+    "云计算/02分布式计算.pdf",
     "云计算/05云存储技术.pdf",
+    "04虚拟化技术.txt",
     "云计算/04虚拟化技术（2）.pdf",
+    "02分布式计算.txt",
+    "05云存储技术.txt",
+    "03云计算架构.txt",
+    "笔记/figures/Pasted image 20260708164659.png",
     "笔记/figures/Pasted image 20260708153355.png",
-    "云计算/03云计算架构.pdf",
     "笔记/figures/Pasted image 20260708151600.png",
     "笔记/figures/Pasted image 20260708151550.png",
     "笔记/figures/Pasted image 20260708151544.png",
     "笔记/figures/Pasted image 20260708151453.png",
     "笔记/figures/Pasted image 20260708151440.png",
-    "云计算/02分布式计算.pdf",
-    "云计算/01云计算概述.pdf",
-    "数字图像处理/第4章 频率域图像增强.pdf",
-    "kqq图像处理/第9章 图像复原.pdf",
     "笔记/数字图像处理期末复习考点整理.md",
     "笔记/figures/Pasted image 20260706200319.png",
-    "kqq图像处理/习题课.pdf",
-    "kqq图像处理/第4章 图像的正交变换-48.pdf",
     "笔记/figures/_small/test.png",
     "笔记/figures/_small/div.jpg",
     "笔记/插值算法.md",
@@ -284,7 +315,6 @@
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "未命名.canvas"
   ]
 }

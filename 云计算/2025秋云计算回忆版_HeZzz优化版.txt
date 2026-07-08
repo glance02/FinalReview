@@ -1,0 +1,171 @@
+                                                                          2025   12     1
+
+
+
+
+                                             LATEX
+                                      2025     12        1
+
+
+
+
+        (       9   )
+1.
+
+
+
+
+2. CAP
+
+
+            CAP                                                (Consistency)          (Avail-
+     ability)               (Partition tolerance)
+
+
+3.
+
+
+
+
+4.                  (Hypervisor)
+
+
+                         (Hypervisor)
+
+5.                  (SDN)
+
+
+                             (SDN)                       SDN
+
+
+
+
+                                          1     /    4
+                                                                          2025      12      1
+
+
+6. HDFS
+
+
+  HDFS(Hadoop Distributed File System)
+
+
+  (1) HDFS
+  (2)
+
+
+7. HDFS
+
+
+                     HDFS                                                        DataNode
+                                                       key % R
+             DataNode         {A    B C}
+  (1)                                DataNode D
+  (2)                                  DataNode D
+  (3)
+
+8. MapReduce
+
+
+        MapReduce                  ⟨key_P, value_C⟩              key_P               value_C
+               ⟨key_GP, value_GC⟩                      key_GP               value_GC
+               (T om, Jack)         Tom    Jack           (Jack, Alice)     Jack         Alice
+                    (T om, Alice)
+  (1) MapReduce                                 Mapper                          Reducer
+
+
+  (2)                                                     Map         Shuffle            Reduce
+
+
+
+
+                    key_P                      key_C
+                    Tom                        Jack
+                    Jack                       Alice
+                    Jack                       Jesse
+
+
+
+
+                                       2   /      4
+                                                                     2025      12   1
+
+
+  Map        :
+
+
+
+
+  Shuffle        :
+
+
+
+
+  Reduce             :
+
+
+
+
+9. HBase
+
+
+  (1)            HBase     HBase                                          Region Store
+  MemStore StoreFile
+
+            Table                                      Region
+
+            Region                 Store               Store        Store
+                               memStore               memStore     memStore
+            Region
+                                  StoreFile                        StoreFile
+
+                                  StoreFile
+            Region
+                                     ......
+
+             ......               StoreFile
+
+            Region
+
+
+
+
+             1: HBase    Table Region             Store MemStore StoreFile
+
+
+
+
+                              3        /      4
+                                                                            2025   12       1
+
+
+(2)                                                     (Order),            ID(OrderNum)
+         (OrderDate)                (OrderStatus)       (Total)                (OrderDetail)
+           ID(OrderNum)              ID(ItemNum)              (ItemPrice)
+
+
+                                     1:   (Order)
+      ORDER NUM(        )      ORDER DATE   ORDER STATUS                  TOTAL
+      125                      2025-12-02   SHIPPED                       500
+      125                      2025-12-01   BACK                          300
+      124                      2025-11-30   SHIPPED                       200
+      123                      2025-11-29   SHIPPED                       500
+
+
+                               2:            (OrderDetail)
+           ORDER NUM(           )      ITEM NUM       ITEM PRICE
+           125                         1              100
+           125                         2              200
+           124                         1              200
+           123                         1              100
+           123                         2              200
+
+
+                       HBase                                         ID
+(                                                                                       )
+
+
+
+
+                                         4   /      4
+
