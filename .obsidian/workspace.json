@@ -4,88 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f3b7043a635fa456",
+        "id": "fbd678c22b3f4ad2",
         "type": "tabs",
-        "dimension": 43.40974212034384,
+        "dimension": 49.5373665480427,
         "children": [
           {
-            "id": "9961e9df99dfd67c",
+            "id": "0bf5d52c7ff728a2",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "云计算/05云存储技术.pdf",
-                "page": 23,
-                "left": -25,
-                "top": 193,
-                "zoom": 0.6291666666666667
+                "file": "云计算/03云计算架构.pdf",
+                "page": 33,
+                "left": -22,
+                "top": 289,
+                "zoom": 0.671875
               },
               "icon": "lucide-file-text",
-              "title": "05云存储技术"
+              "title": "03云计算架构"
             }
           },
           {
-            "id": "4a79dcfa6fdca158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/最后一课.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "最后一课"
-            }
-          },
-          {
-            "id": "532e2fbe63d93bc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "云计算/云计算期末模拟卷_最后一课考点版.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "云计算期末模拟卷_最后一课考点版"
-            }
-          },
-          {
-            "id": "4213a708a93e99ce",
-            "type": "leaf",
-            "state": {
-              "type": "terminal-view",
-              "state": {},
-              "icon": "terminal",
-              "title": "Terminal"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "0b8e983c8ce92baa",
-        "type": "tabs",
-        "dimension": 56.59025787965616,
-        "children": [
-          {
-            "id": "00a96c28c3469f8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/云计算考点整理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "云计算考点整理"
-            }
-          },
-          {
-            "id": "36a17d78fde0f0c9",
+            "id": "af8ffad2ba059cb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,9 +37,83 @@
               "icon": "lucide-file",
               "title": "云计算期末模拟卷_最后一课考点版_参考答案"
             }
+          },
+          {
+            "id": "00a96c28c3469f8b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "云计算/2025秋云计算回忆版_HeZzz优化版.pdf",
+                "page": 3,
+                "left": -18,
+                "top": 404,
+                "zoom": 0.8126427899475879
+              },
+              "icon": "lucide-file-text",
+              "title": "2025秋云计算回忆版_HeZzz优化版"
+            }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "16f6668dc2e05cae",
+        "type": "split",
+        "dimension": 50.4626334519573,
+        "children": [
+          {
+            "id": "0b8e983c8ce92baa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "acf43f7a3d6fa7bc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "笔记/云计算考点整理.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "云计算考点整理"
+                }
+              },
+              {
+                "id": "c514c94b6a2aa672",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "云计算/云计算期末模拟卷_最后一课考点版.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "云计算期末模拟卷_最后一课考点版"
+                }
+              }
+            ]
+          },
+          {
+            "id": "9f93a1a6f7309a39",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1c5c59ddaa89e707",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal-view",
+                  "state": {},
+                  "icon": "terminal",
+                  "title": "Terminal"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -156,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 216.5110321044922,
     "collapsed": true
   },
   "right": {
@@ -235,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "云计算/云计算期末模拟卷_最后一课考点版.md",
+                "file": "笔记/云计算考点整理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "云计算期末模拟卷_最后一课考点版 的大纲"
+              "title": "云计算考点整理 的大纲"
             }
           }
         ],
@@ -249,8 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5,
-    "collapsed": true
+    "width": 404.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,22 +280,21 @@
       "termy:打开Termy终端": false
     }
   },
-  "active": "4213a708a93e99ce",
+  "active": "1c5c59ddaa89e707",
   "lastOpenFiles": [
-    "云计算/云计算期末模拟卷_最后一课考点版_参考答案.md",
     "云计算/云计算期末模拟卷_最后一课考点版.md",
-    "笔记/最后一课.md",
-    "云计算/2025秋云计算回忆版_HeZzz优化版.txt",
+    "云计算/云计算期末模拟卷_最后一课考点版_参考答案.md",
     "云计算/2025秋云计算回忆版_HeZzz优化版.pdf",
     "云计算/06云计算网络（3）.pdf",
     "笔记/云计算考点整理.md",
     "云计算/02分布式计算.pdf",
-    "云计算/05云存储技术.pdf",
-    "04虚拟化技术.txt",
-    "云计算/04虚拟化技术（2）.pdf",
-    "02分布式计算.txt",
-    "05云存储技术.txt",
-    "03云计算架构.txt",
+    "云计算/03云计算架构.pdf",
+    "未命名.md",
+    "笔记/figures/Pasted image 20260708230839.png",
+    "笔记/figures/Pasted image 20260708230742.png",
+    "笔记/figures/Pasted image 20260708230714.png",
+    "云计算/01云计算概述.pdf",
+    "笔记/最后一课.md",
     "笔记/figures/Pasted image 20260708164659.png",
     "笔记/figures/Pasted image 20260708153355.png",
     "笔记/figures/Pasted image 20260708151600.png",
@@ -290,12 +302,14 @@
     "笔记/figures/Pasted image 20260708151544.png",
     "笔记/figures/Pasted image 20260708151453.png",
     "笔记/figures/Pasted image 20260708151440.png",
+    "云计算/2025秋云计算回忆版_HeZzz优化版.txt",
+    "05云存储技术.txt",
+    "04虚拟化技术.txt",
+    "03云计算架构.txt",
+    "02分布式计算.txt",
+    "笔记/云计算期末考试重点.md",
     "笔记/数字图像处理期末复习考点整理.md",
-    "笔记/figures/Pasted image 20260706200319.png",
-    "笔记/figures/_small/test.png",
-    "笔记/figures/_small/div.jpg",
     "笔记/插值算法.md",
-    "未命名.md",
     "笔记/考点.md",
     "copilot/copilot-conversations/I_don't_have_any_previous_conversation_content_to_@20260623_231830.md",
     "copilot/copilot-conversations/PDF灰度变换方法总结@20260624_170602.md",
@@ -313,8 +327,6 @@
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "未命名.canvas"
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "theme": "moonstone",
-  "cssTheme": "Atom",
+  "theme": "obsidian",
+  "cssTheme": "Border",
   "showRibbon": true,
   "interfaceFontFamily": "仿宋",
   "textFontFamily": "华文仿宋,仿宋",
@@ -10,5 +10,6 @@
     "fileLine"
   ],
   "showViewHeader": false,
-  "monospaceFontFamily": "JetBrainsMono NF"
+  "monospaceFontFamily": "JetBrainsMono NF",
+  "accentColor": ""
 }

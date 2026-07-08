@@ -8,5 +8,7 @@
   "showInlineTitle": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./figures",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
