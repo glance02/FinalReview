@@ -72,5 +72,13 @@
       ],
       "key": "/"
     }
+  ],
+  "termy:terminal-send-selection": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
   ]
 }

@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
   "source": "termy",
-  "updatedAt": "2026-07-07T16:54:35.931Z",
-  "vaultRoot": "C:/Users/glance/Desktop/图像处理与计算机视觉",
+  "updatedAt": "2026-07-08T08:53:33.010Z",
+  "vaultRoot": "C:/Users/86199/Desktop/FinalReview",
   "workspaceFolders": [
-    "C:/Users/glance/Desktop/图像处理与计算机视觉"
+    "C:/Users/86199/Desktop/FinalReview"
   ],
   "activeFile": {
-    "filePath": "C:\\Users\\glance\\Desktop\\图像处理与计算机视觉\\笔记\\云计算考点整理.md",
-    "vaultPath": "笔记/云计算考点整理.md",
-    "fileUrl": "file:///C:/Users/glance/Desktop/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/%E7%AC%94%E8%AE%B0/%E4%BA%91%E8%AE%A1%E7%AE%97%E8%80%83%E7%82%B9%E6%95%B4%E7%90%86.md",
+    "filePath": "C:\\Users\\86199\\Desktop\\FinalReview\\笔记\\最后一课.md",
+    "vaultPath": "笔记/最后一课.md",
+    "fileUrl": "file:///C:/Users/86199/Desktop/FinalReview/%E7%AC%94%E8%AE%B0/%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE.md",
     "hasFocus": false
   },
   "openFiles": [
     {
-      "filePath": "C:\\Users\\glance\\Desktop\\图像处理与计算机视觉\\笔记\\最后一课.md",
+      "filePath": "C:\\Users\\86199\\Desktop\\FinalReview\\笔记\\最后一课.md",
       "vaultPath": "笔记/最后一课.md",
-      "fileUrl": "file:///C:/Users/glance/Desktop/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/%E7%AC%94%E8%AE%B0/%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE.md",
-      "isActive": false
+      "fileUrl": "file:///C:/Users/86199/Desktop/FinalReview/%E7%AC%94%E8%AE%B0/%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE.md",
+      "isActive": true
     },
     {
-      "filePath": "C:\\Users\\glance\\Desktop\\图像处理与计算机视觉\\笔记\\云计算考点整理.md",
+      "filePath": "C:\\Users\\86199\\Desktop\\FinalReview\\笔记\\云计算考点整理.md",
       "vaultPath": "笔记/云计算考点整理.md",
-      "fileUrl": "file:///C:/Users/glance/Desktop/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/%E7%AC%94%E8%AE%B0/%E4%BA%91%E8%AE%A1%E7%AE%97%E8%80%83%E7%82%B9%E6%95%B4%E7%90%86.md",
-      "isActive": true
+      "fileUrl": "file:///C:/Users/86199/Desktop/FinalReview/%E7%AC%94%E8%AE%B0/%E4%BA%91%E8%AE%A1%E7%AE%97%E8%80%83%E7%82%B9%E6%95%B4%E7%90%86.md",
+      "isActive": false
     }
   ],
   "selection": null
