@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "termy",
-  "updatedAt": "2026-07-08T16:19:04.618Z",
+  "updatedAt": "2026-07-09T15:01:00.553Z",
   "vaultRoot": "C:/Users/glance/Desktop/图像处理与计算机视觉",
   "workspaceFolders": [
     "C:/Users/glance/Desktop/图像处理与计算机视觉"
@@ -24,12 +24,6 @@
       "vaultPath": "笔记/云计算考点整理.md",
       "fileUrl": "file:///C:/Users/glance/Desktop/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/%E7%AC%94%E8%AE%B0/%E4%BA%91%E8%AE%A1%E7%AE%97%E8%80%83%E7%82%B9%E6%95%B4%E7%90%86.md",
       "isActive": true
-    },
-    {
-      "filePath": "C:\\Users\\glance\\Desktop\\图像处理与计算机视觉\\云计算\\云计算期末模拟卷_最后一课考点版.md",
-      "vaultPath": "云计算/云计算期末模拟卷_最后一课考点版.md",
-      "fileUrl": "file:///C:/Users/glance/Desktop/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/%E4%BA%91%E8%AE%A1%E7%AE%97/%E4%BA%91%E8%AE%A1%E7%AE%97%E6%9C%9F%E6%9C%AB%E6%A8%A1%E6%8B%9F%E5%8D%B7_%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%E8%80%83%E7%82%B9%E7%89%88.md",
-      "isActive": false
     }
   ],
   "selection": null
